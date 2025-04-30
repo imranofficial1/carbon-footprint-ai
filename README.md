@@ -86,4 +86,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - SHAP library for model explainability
 - Scikit-learn for machine learning capabilities
-- FastAPI for the backend framework 
+- FastAPI for the backend framework
+
+📊 Dataset
+We use a synthetic dataset that simulates device usage, streaming time, and emission factors.
+You can find it here: digital_footprint_data.csv
+
+🙌 Contributors
+Mohammed Imran K (Team Lead)
+
+Sahaana S
+
+Avanthika D
+
+Surya P
